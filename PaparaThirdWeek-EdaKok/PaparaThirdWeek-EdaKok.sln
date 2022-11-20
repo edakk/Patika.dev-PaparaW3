@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaThirdWeek.Web", "PaparaThirdWeek-EdaKok\PaparaThirdWeek.Web.csproj", "{62586A01-059A-4AAD-AEEF-178250F2E7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaThirdWeek.Business", "PaparaThirdWeekBusiness\PaparaThirdWeek.Business.csproj", "{4F044B49-3F41-4D5F-877C-F15C48DDCEA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaThirdWeek.Data", "PaparaThirdWeek.Data\PaparaThirdWeek.Data.csproj", "{E0432A2D-8956-4D06-A864-4CEAC8431468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaThirdWeek.Services", "PaparaThirdWeek.Services\PaparaThirdWeek.Services.csproj", "{6327CAD4-7810-4389-926D-337748CE45AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaThirdWeek.Api", "PaparaThirdWeek.Api\PaparaThirdWeek.Api.csproj", "{D526B90F-DA5B-48AB-B47C-70E5003A4A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaThirdWeek.Domain", "PaparaThirdWeek.Domain\PaparaThirdWeek.Domain.csproj", "{4005A48F-B133-4FBF-A4BF-326699A195EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62586A01-059A-4AAD-AEEF-178250F2E7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62586A01-059A-4AAD-AEEF-178250F2E7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62586A01-059A-4AAD-AEEF-178250F2E7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62586A01-059A-4AAD-AEEF-178250F2E7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F044B49-3F41-4D5F-877C-F15C48DDCEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F044B49-3F41-4D5F-877C-F15C48DDCEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F044B49-3F41-4D5F-877C-F15C48DDCEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F044B49-3F41-4D5F-877C-F15C48DDCEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0432A2D-8956-4D06-A864-4CEAC8431468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0432A2D-8956-4D06-A864-4CEAC8431468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0432A2D-8956-4D06-A864-4CEAC8431468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0432A2D-8956-4D06-A864-4CEAC8431468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6327CAD4-7810-4389-926D-337748CE45AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6327CAD4-7810-4389-926D-337748CE45AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6327CAD4-7810-4389-926D-337748CE45AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6327CAD4-7810-4389-926D-337748CE45AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D526B90F-DA5B-48AB-B47C-70E5003A4A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D526B90F-DA5B-48AB-B47C-70E5003A4A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D526B90F-DA5B-48AB-B47C-70E5003A4A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D526B90F-DA5B-48AB-B47C-70E5003A4A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4005A48F-B133-4FBF-A4BF-326699A195EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4005A48F-B133-4FBF-A4BF-326699A195EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4005A48F-B133-4FBF-A4BF-326699A195EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4005A48F-B133-4FBF-A4BF-326699A195EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A6EFED3-2AA1-45AD-97B7-8B131AB8B127}
+	EndGlobalSection
+EndGlobal
